@@ -199,5 +199,5 @@ return "Olá, eu sou " + sexo + " " + pessoa.nome + " " + pessoa.sobrenome + ", 
 }
 
 // Agora, apresente-se ;)
-?
+pessoa.apresentacao(); // "Olá, eu sou a Sabrina Samapaio, tenho 20 anos, 1.65, meu peso é 60 e, só hoje, eu já caminhei 60 metros!"
 ```
