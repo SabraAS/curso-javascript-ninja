@@ -137,6 +137,6 @@ a frase:
 */
 // 
 nomedolivro = 'Ola';
-console.log(`O livro ${nomedolivro} foi publicado pela editora ${book('Ola").editora}.`)
+console.log(`O livro ${nomedolivro} foi publicado pela editora ${book("Ola").editora}.`)
 
 
